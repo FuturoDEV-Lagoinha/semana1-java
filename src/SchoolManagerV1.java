@@ -7,7 +7,6 @@ public class SchoolManagerV1 {
 
         System.out.println("Informe a primeira nota:");
         notes[0] = input.nextDouble();
-        //notes.add(input.nextDouble());
         System.out.println("Informe a segunda nota:");
         notes[1] = input.nextDouble();
         System.out.println("Informe a terceira nota:");
